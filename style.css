@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+:root {
+    --main-color: #2eca7f;
+}
+
+* {
+    margin:0 auto;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+ul li {
+    list-style: none;
+}
+
+.cardContainer {
+
+}
+
+.card {
+
+}
+
+.cardHeader {
+
+}
+
+.cardContent {
+
+}
+
+.nav {
+
+}
+
+.image {
+
+}
+
+.info {
+    
+}
